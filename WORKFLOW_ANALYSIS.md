@@ -19,7 +19,7 @@ The Checkout code step gets the repository's code and makes it available to the 
 
 ## 4. What is the purpose of the environment configuration?
 
-The environment configuration sets up GitHub Pages for the deployment. It makes sure the workflow has the correct settings needed to publish the website.
+The environment configuration sets up GitHub Pages for the deployment. It makes sure the workflow has the correct settings needed to publish the website. This helps automate the deployment process instead of requiring the website to be published manually. 
 
 ## 5. How does this workflow improve reliability compared to manual deployment?
 
